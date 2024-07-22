@@ -16,3 +16,4 @@ bello
 belachio
 sab badhiya?
 bus
+or
