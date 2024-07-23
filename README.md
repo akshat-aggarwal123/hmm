@@ -19,6 +19,7 @@ bus
 or
 hmmmmmm
 
+hello
 why are you so stubborn?
 
 how are you so goodD?????
