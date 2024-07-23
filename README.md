@@ -19,8 +19,4 @@ bus
 or
 hmmmmmm
 
-why are you so stubborn?
-
-how are you so goodD?????
-hmmmmmm\
-my new branch code
+hello
